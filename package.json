@@ -2,7 +2,9 @@
   "name": "todo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://busrauz78.github.io/TodowithReact/",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "materialize-css": "^1.0.0",
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
