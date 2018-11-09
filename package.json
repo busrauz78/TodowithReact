@@ -2,9 +2,9 @@
   "name": "todo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://busrauz78.com/TodowithReact/",
+ 
   "dependencies": {
-    "gh-pages": "^2.0.1",
+   
     "materialize-css": "^1.0.0",
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
@@ -18,8 +18,12 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+   
+<<<<<<< HEAD
+  
+=======
+   
+>>>>>>> eb33099fb489d66671ffa7753545a252d728cd09
   },
   "eslintConfig": {
     "extends": "react-app"
